@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url("../img/page-background.png");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+header{
+    margin-bottom: 50px;
+}
+.carousel-inner{
+    background: rgba(0, 0, 0, 0.35);
+    
+}
+
+
+#main-content{
+    min-height: 700px;
+    margin-bottom: 50px;
+    padding: 70px;
+}
+
+#social-icons{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
+footer{
+    margin-top: 50px;
+    min-height: 250px;
+}
